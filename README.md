@@ -1,6 +1,6 @@
 # embedded-js
 Dot Net Core Embedded JavaScript with API
-###Very basic cc API processing:
+### Very basic cc API processing:
 [squareup](https://squareup.com/us/en/developers/online-payment-apis)
 
 
