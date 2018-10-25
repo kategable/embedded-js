@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>partner-integration</AssemblyName>
+    <RootNamespace>partner.integration</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="wwwroot\css\site.css" />
+    <None Remove="wwwroot\js\bootstrap.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+</Project>
