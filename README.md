@@ -5,7 +5,7 @@ Dot Net Core Embedded JavaScript with API
 
 
 ## Kate Sky
-* [linkedin](https://www.linkedin.com/in/katesky/)
+* [linkedin https://www.linkedin.com/in/katesky/](https://www.linkedin.com/in/katesky/)
 * twitter: @katesky8
-* [email](mailto:me@katesky.com)
-* [blog](http://www.katesky.com)
+* [email me@katesky.com](mailto:me@katesky.com)
+* [blog http://www.katesky.com](http://www.katesky.com)
